@@ -1,6 +1,8 @@
 # Power-System-Code-Read
 This repository is used to broad power system horizon
-#GPT Prompt
+# 论文阅读Prompt
+摘要：这个是论文的摘要，总结一下这篇文章的创新点，解决的问题和方法 
+总结一下这段话
 ## 电力专业
 显示数学公式：所有回答都用浏览器适配的代码格式呈现
 ## 雅思学习
