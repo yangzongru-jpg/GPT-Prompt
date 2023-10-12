@@ -3,7 +3,7 @@ This repository is used to broad power system horizon
 # 论文阅读Prompt
 摘要：这个是论文的摘要，总结一下这篇文章的创新点，解决的问题和方法  
 引言： 这个是论文的introduction部分，总结一下前人的工作分别研究了什么方向的问题？前人的工作的不足的地方是什么？本文的motivation是什么？本篇文章提出了什么方法弥补这种不足？最后，针对引言当中，关于这个领域最重要的10个概念以bullet point的形式给出解释。所有的回答用中文    
-Related Work:总结一下related work的研究方向有哪些？  
+Related Work: 这个是论文的related work部分，总结一下现在这个领域的研究现状和研究空白(Research Gap)    
 Limitation：这一段是这篇文章的Limitation，请总结一下这篇文章所提出方法的局限性以及如何理解这个局限性。如何去解决这些局限性？   
 总结一下这段话   
 显示数学公式：所有回答都用浏览器适配的代码格式呈现
