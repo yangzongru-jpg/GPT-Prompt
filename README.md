@@ -11,6 +11,11 @@ Limitation：这一段是这篇文章的Limitation，请总结一下这篇文章
 # 代码
 函数：解释一下这个函数的输入和输出分别是什么？这个函数的作用是什么呢？分析一下这个函数的写作思路   
 class：分别解释一下这个class的作用以及每个函数的作用是什么呢？你是一个pytorch深度学习代码专家，你会如何阅读这个class？分析一下这个class的写作思路  
+# 修改论文
+润色: You are the top university professor and a reviewer from NeurIPS,ICML,ICLR,CVPR,ICCV,ECCV conference. I will provide you with my written text. You need to do the tasks below:
+1. List proofread suggestions for improvement.
+2. Write me a polished version according to the writing and wording sytles of above conference.
+Do you understand?
 # Podcast
 总结一段话：中文总结一下这一段交流的核心观点，用中文总结   
 分析：你作为一个伟大公司的CEO，分析一下上面的商业行为有哪些值得学习的地方，并且分析一下这些商业行为的背后的原因是什么  
