@@ -12,7 +12,7 @@ Limitation：这一段是这篇文章的Limitation，请总结一下这篇文章
 函数：解释一下这个函数的输入和输出分别是什么？这个函数的作用是什么呢？分析一下这个函数的写作思路   
 class：分别解释一下这个class的作用以及每个函数的作用是什么呢？你是一个pytorch深度学习代码专家，你会如何阅读这个class？分析一下这个class的写作思路  
 # 修改论文
-中文扩展：你是一个深度学习中的增量学习专家，下面对这段话进行改写和尽量扩充，目的是要降低相似度，防止论文查重，但是表达意思不可以改变
+中文扩展：你是一个深度学习中的增量学习专家，下面对这段话进行改写和尽量扩充，目的是要降低相似度，防止论文查重，但是表达意思不可以改变   
 英文润色: You are a professor at a top university and a reviewer for NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV conferences. I will provide you with the text that I wrote. You need to accomplish the following tasks: rewrite and expand the paragraph as much as possible to reduce the repetition rate of the paper in order to prevent paper checking, while the core semantics remain the same.
 # Podcast
 总结一段话：中文总结一下这一段交流的核心观点，用中文总结   
